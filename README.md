@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/brianashman/">Brian Ashman</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I build projects across IT, .NET development, and cybersecurity to solve real problems and grow my skills. Check them out.
+I build projects across IT, .NET development, and cybersecurity to solve real problems and grow my skills.
 
+I am currently working on my own Ticket System powered by Asp.Net Web Api with plans for .Net Maui front end and much more ->  https://github.com/brianashman/TicketSystem
 <!--
 ## ⚠️ Vulnerability Management Projects
 
