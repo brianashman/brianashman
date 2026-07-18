@@ -2,7 +2,7 @@
 
 I build projects across IT, .NET development, and Cybersecurity to solve real problems and grow my skills.
 
-I am currently working on my own Ticket System powered by Asp.Net Web Api with plans for .Net Maui front end and much more ->  https://github.com/brianashman/TicketSystem
+I am currently working on a project called WyrdStack, powered by Asp.Net Web Api and PostgreSQL, with plans for .Net Maui front end and much more ->  https://github.com/brianashman/WyrdStack
 <!--
 ## ⚠️ Vulnerability Management Projects
 
